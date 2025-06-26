@@ -10,7 +10,7 @@ I’m an aspiring data analyst passionate about turning data into actionable ins
 | Project | Description | Tools |
 |---------|-------------|-------|
 | [Aquaculture Market Analysis](https://github.com/tojangeng262/aquaculture-market-analysis) | Market dynamics analysis to identify best expansion countries for aquaculture tools. | Python, Pandas, Matplotlib, Seaborn |
-| [soon]() | soon | soon |
+| [Magic_Chess_Picture_to_stat](https://github.com/tojangeng262/MagicChessGoGo-Moonton-) | Reading a screenshot of the game description like heroes, synergy, item, and make a json for it | Python, Google Collab, Gemini API |
 | [soon]() | soon | soon |
 | [Other Project](link-to-repo-or-notebook) | Short description here. | Tools used |
 
